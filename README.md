@@ -1,4 +1,4 @@
-# partitioned-trigger-handler
+# Partitioned Trigger Handler
 Salesforce Partitioned Trigger Handler
 
 This is the code repo for the Partitioned Trigger Handler pattern for Salesforce Apex, as described in the blog post:
